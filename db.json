@@ -7,5 +7,58 @@
       "password": "123456",
       "confirmPassword": "123456"
     }
+  ],
+  "studentdata": [
+    {
+      "id": "f1dc",
+      "name": "thomas",
+      "email": "ekjernjrenj@gmail.com",
+      "course": "bca",
+      "phone": "7556834750",
+      "address": "evvneonvoienroin"
+    },
+    {
+      "id": "1eee",
+      "name": "abin",
+      "email": "ekjernjrenj@gmail.com",
+      "course": "bca",
+      "phone": "4446498498",
+      "address": "wjebnfuoierbobfreuovbeybru"
+    },
+    {
+      "id": "7ef8",
+      "name": "bekbebr",
+      "email": "allenn4124@gmail.com",
+      "course": "ere",
+      "phone": "9037590357",
+      "address": "ernfnehuoer8oheoufhoeuhhrupherfpuhepfhpehwcwherfhuer"
+    },
+    {
+      "id": "f644",
+      "name": "vvhvhv",
+      "email": "allxnn824@gmail.com",
+      "course": "ere",
+      "phone": "516556151",
+      "address": "wenfiwbifbiwebcfc"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "705f",
+      "1eee": "Present",
+      "7ef8": "Absent",
+      "f1dc": "Present",
+      "bba3": "Absent"
+    },
+    {
+      "id": "4ee8",
+      "date": "2025-12-04",
+      "attendance": {
+        "bba3": "Present",
+        "f1dc": "Present",
+        "1eee": "Absent",
+        "7ef8": "Absent"
+      }
+    }
   ]
 }
